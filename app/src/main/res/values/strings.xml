@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GFrame</string>
+    <string name="DialogFlow">DialogFlow</string>
+    <string name="send_hint">Ej: Hola quiero una cita</string>
+</resources>
